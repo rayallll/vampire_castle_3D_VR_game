@@ -21,37 +21,37 @@ To develop an engaging VR tower defense game that combines strategic gameplay, i
 - **Language Package**:<br>
 **Developing Tool**: *Unity* <br>
 **Developing Language**: *C#* <br>
-**Design Tool**: *Blender, Mixamo, Procreate*<br>
+**UI Design Tool**: *Procreate*<br>
+**3D object Design Tools**: *Blender, Mixamo*<br>
 
 ## Project Feature
-**1. First-Person Perspective VR Gameplay**
+**1. First-Person Perspective 3D VR Gameplay**
 
-Players control their characters using the keyboard (W, A, S, D) for movement. If time allows, the game will also be adapted for VR handle operation. The immersive first-person perspective enhances the player's engagement with the game environment and the strategic elements of tower placement.<br><br>
+Players control their characters using a VR handle. The immersive first-person perspective enhances the player's engagement with the game environment and the strategic elements of tower placement.<br><br>
 
-**2. Strategic Tower Defense Mechanics**
+**2. Educational Tutorial System**
+A detailed tutorial system helps players understand the controls, objectives, and mechanics of the game, ensuring a smooth learning curve and an enjoyable experience from the start.<br><br>
+
+**3. Strategic Tower Defense Mechanics**
 
 Players can place various types of towers along the road to attack and block enemies. These towers are immune to enemy attacks and require gold coins to build and upgrade. At the start of the game, players are given a certain amount of gold coins, which can be increased by collecting coins produced by certain towers or dropped by defeated enemies.<br><br>
 
-**3. Resource Management**
+**4. Resource Management**
 
 Gold coins are crucial for building and upgrading towers. Players must collect coins dropped by enemies and produced by towers. The initial amount of gold coins and the distance from which they can be collected can be increased using a Magic Wand, which can also be upgraded to enhance player movement speed.<br><br>、
 
-**4. Diverse Tower Types**
-There are four types of towers:
+**5. Diverse Tower Types**
 Attack Towers: Deal damage to enemies every second.
 Freezing Towers: Slow down or freeze enemies every three seconds.
 Gold-Producing Towers: Generate gold coins every second.
 Range Damage Towers: Deal area damage to enemies every three seconds.<br><br>
 
 
-**5. Enemy Dynamics**
+**6. Enemy Dynamics**
 Enemies move along a set path towards the heart. Players must strategically place towers to prevent enemies from reaching and destroying the heart. Different enemy types, including small and large monsters, have varying HP and drop different amounts of gold coins upon defeat. <br><br>
 
-**6. Educational Tutorial System**
-A detailed tutorial system helps players understand the controls, objectives, and mechanics of the game, ensuring a smooth learning curve and an enjoyable experience from the start.<br><br>
 
-**7. VR Implementation**
-Applying VR functionalities, enhancing the immersive experience, and ensuring compatibility with VR devices. <br><br>
+
 
 **8. Cybersickness Prevention**
 
@@ -85,6 +85,6 @@ Implemented unit tests to ensure the reliability of game mechanics, including ch
 
 
 ## Video Demo
-[![Watch the video](screenshot/elderwood-youtube-video.png)](https://www.youtube.com/watch?v=c2cYV-YtA-w&t=4s)
+[![Watch the video](screenshot/vampire-youtube-video.JPG)](https://www.youtube.com/watch?v=c2cYV-YtA-w&t=4s)
 
  * video link: [https://www.youtube.com/watch?v=SeSH-yGvLrM](https://www.youtube.com/watch?v=c2cYV-YtA-w&t=4s)
