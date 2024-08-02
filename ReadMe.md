@@ -1,10 +1,11 @@
 # The Elderwood
 A first-person perspective 3D VR tower defense game is available exclusively on Windows PC.
 
-## Project Description <br>
-- **Project Type**: Bachelor School Project in Queen's University CISC 496 - VR Tower Defense Game.
+## Project Description 
+- **Project Type**:<br>
+Bachelor School Project in Queen's University CISC 496 - VR Tower Defense Game.
   
-- **Project Motivations**: 
+- **Project Motivations**: <br>
 Combining Tower Defence, 3D, and VR features would be really interesting because the game strategy and gameplay will be very different. Players can only see a small portion of the map instead of an overhead view.
 
 ## Project Summary
