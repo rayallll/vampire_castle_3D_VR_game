@@ -1,4 +1,4 @@
-# The Elderwood
+# Vampire Castle 3D VR Game
 A first-person perspective 3D VR tower defense game is available exclusively on Windows PC.
 
 ## Project Description 
